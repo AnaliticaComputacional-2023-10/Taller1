@@ -3,25 +3,25 @@
    a. **La puerta que elegi**:
    Las tres puertas tienen la misma probabilidad de ser elegidas
 
-   <center>
+<center>
 
-   | P(U) |  U  |
-   | :--: | :-: |
-   |  1   | 1/3 |
-   |  2   | 1/3 |
-   |  3   | 1/3 |
+| P(U) |  U  |
+| :--: | :-: |
+|  1   | 1/3 |
+|  2   | 1/3 |
+|  3   | 1/3 |
 
-   </center>
+</center>
 
-   b. **La puerta en la que se encuentra detras el carro**:
-   El premio puede estar ubicado en cualquiera de las tres puertas
+    b. **La puerta en la que se encuentra detras el carro**:
+    El premio puede estar ubicado en cualquiera de las tres puertas
 
-   <center>
+<center>
 
-   | P(C) |  C  |
-   | :--: | :-: |
-   |  1   | 1/3 |
-   |  2   | 1/3 |
-   |  3   | 1/3 |
+| P(C) |  C  |
+| :--: | :-: |
+|  1   | 1/3 |
+|  2   | 1/3 |
+|  3   | 1/3 |
 
-   </center>
+</center>
