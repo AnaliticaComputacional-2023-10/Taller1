@@ -1,29 +1,6 @@
-# Test
-
-5. Prueba enunciado punto
-
-   1. Prueba Subpunto
-
-      <!-- <div style="margin-left: auto; margin-right: auto; width: 30%"> -->
-      <div align="center">
-
-      | P(U) |  U  |
-      | :--: | :-: |
-      |  1   | 1/3 |
-      |  2   | 1/3 |
-      |  3   | 1/3 |
-
-      </div>
-
-   1. Prueba sub
-
-   <!-- <div style="margin-left: auto; margin-right: auto; width: 30%"> -->
-   <div align="center">
-
-   | P(U) |  U  |
-   | :--: | :-: |
-   |  1   | 1/3 |
-   |  2   | 1/3 |
-   |  3   | 1/3 |
-
-     </div>
+|          |   A = 0    |   A = 1    |   A = 2    |
+| :------: | :--------: | :--------: | :--------: |
+|  **C**   | **phi(c)** | **phi(c)** | **phi(c)** |
+| **C(0)** |     0      |    0.5     |    0.5     |
+| **C(1)** |    0.5     |     0      |    0.5     |
+| **C(2)** |    0.5     |    0.5     |     0      |
