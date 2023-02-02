@@ -4,10 +4,10 @@
 
 ---
 
-|    Integrante     |     Login     |  Codigo   |
-| :---------------: | :-----------: | :-------: |
-| Santiago Gonzalez | s.gonzalez35  | 202012274 |
-| Juliana Cardenas  | jc.cardenasb1 | 202011683 |
+|     Nombres      |      Apellidos       |     Login     |  Codigo   |
+| :--------------: | :------------------: | :-----------: | :-------: |
+|     Santiago     | Gonzalez Montealegre | s.gonzalez35  | 202012274 |
+| Juliana Carolina |  Cardenas Barragan   | jc.cardenasb1 | 202011683 |
 
 ---
 
